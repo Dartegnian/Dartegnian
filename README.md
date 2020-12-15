@@ -1,16 +1,61 @@
 ### I use Arch Linux btw
 
-<!--
-**Dartegnian/Dartegnian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	Dartegnian
+Comment: Created:	6/7/2020 1:25 PM
+Comment: Type:	        4096-bit RSA
+Comment: Usage:	        Signing, Encryption, Certifying User-IDs, SSH Authentication
+Comment: Fingerprint:	10F975A4927D63CCC3AE8DD3233607936C0107BD
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+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
+=tcQI
+-----END PGP PUBLIC KEY BLOCK-----
+```
