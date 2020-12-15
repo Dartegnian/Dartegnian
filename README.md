@@ -1,3 +1,4 @@
 ### I use Arch Linux btw
 
-Starting from December 10, 2020, all commits are signed with [this public key](public_key.asc).
+Starting from December 10, 2020, all commits are signed and can be verified with [this public key](public_key.asc).
+This is my personal PGP key, used for commits, messages, verification, etc. My [key from 2018](http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0xC4E268C38CA3181B) is voided.
