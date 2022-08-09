@@ -9,7 +9,7 @@ I have my own website, https://dartegnian.com, which includes a few services.
 - https://dartegnian.com - Home page, a blog hosted from a 3rd party service.
   - (Will migrate to my other blog and this shall just be a landing page soon)
 - https://projects.dartegnian.com - Kanban board, powered by [Taiga](https://www.taiga.io/).
-- https://wg.dartegnian.com - My WireGuard VPN instance.
+- https://wg.dartegnian.com - Forever One: my WireGuard VPN instance that links my devices to *one* VPN network.
 - https://blog.dartegnian.com - My new blog powered by [Ghost](https://ghost.org/) CMS.
 
 At the moment, I'm currently working on other projects and utilities that I can self-host.
