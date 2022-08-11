@@ -15,5 +15,6 @@ I have my own website, https://dartegnian.com, which includes a few services.
 
 At the moment, I'm currently working on other projects and utilities that I can self-host.
 
-
+<!--
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
+-->
