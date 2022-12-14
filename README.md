@@ -11,7 +11,7 @@ I have my own website, https://dartegnian.com, which includes a few services.
 - https://portfolio.dartegnian.com - My portfolio, built with Angular.
 - https://projects.dartegnian.com - Kanban board, powered by [Taiga](https://www.taiga.io/).
 - https://wg.dartegnian.com - Forever One: my WireGuard VPN instance that links my devices to *one* VPN network.
-- https://abt.dartegnian.com/ - A Better Tomorrow: old blog site hosted by a 3rd party.
+- https://abt.dartegnian.com - A Better Tomorrow: old blog site hosted by a 3rd party.
 
 At the moment, I'm currently working on other projects and utilities that I can self-host, or deploy to my domain.
 
