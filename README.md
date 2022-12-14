@@ -6,7 +6,7 @@ Starting from [last Thursday](https://rationalwiki.org/wiki/Last_Thursdayism) ([
 This is my personal PGP key, used for commits, messages, verification, etc. My [key from 2018](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x62bc11ceb5b6f881) is voided.
 
 I have my own website, https://dartegnian.com, which includes a few services.
-- https://dartegnian.com - My landing page, essentially features basic information about me as a person and the things I like.
+- https://dartegnian.com - My home page, essentially features basic information about me as a person and the things I like.
 - https://blog.dartegnian.com - My new blog powered by [Ghost](https://ghost.org/) CMS.
 - https://portfolio.dartegnian.com - My portfolio, built with Angular.
 - https://projects.dartegnian.com - Kanban board, powered by [Taiga](https://www.taiga.io/).
