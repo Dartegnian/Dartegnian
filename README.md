@@ -1,6 +1,6 @@
 ### I use Arch Linux btw
 
-Starting from [December 10, 2020](https://www.calculator.net/day-of-the-week-calculator.html?today=12%2F10%2F2020&x=107&y=27), all commits are signed and can be verified with [my personal public key](public_key.asc).
+Starting from December 10, 2020, all commits are signed and can be verified with [my personal public key](public_key.asc).
 
 I have my own website, https://dartegnian.com, which includes a few services:
 
