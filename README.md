@@ -1,6 +1,6 @@
 ### I use Arch Linux btw
 
-Starting December 10, 2020, all commits are signed and can be verified with [my public key](public_key.asc).
+Starting December 10, 2020, all commits are signed and can be verified with [my public key](public_key.asc?raw=true).
 
 I have a website, https://dartegnian.com, which includes a few services:
 
