@@ -2,7 +2,7 @@
 
 Starting December 10, 2020, all commits are signed and can be verified with [my public key](public_key.asc?raw=true).
 
-I have a domain, https://dartegnian.com, which includes a few services:
+I have a domain hosted via Route 53, https://dartegnian.com, which includes a few services:
 
 - [**Site**](https://dartegnian.com) - Home page, has my basic info, mood calendar, and journal. Deployed on [Vercel's platform](https://vercel.com/).
 - [**Blog**](https://blog.dartegnian.com) - A blog powered by [Ghost](https://ghost.org/) CMS. Deployed on my own Linux server.
