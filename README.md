@@ -4,7 +4,7 @@ Starting December 10, 2020, all commits are signed and can be verified with [my 
 
 I have a domain hosted via Route 53, https://dartegnian.com, which includes a few services:
 
-- [**Site**](https://dartegnian.com) - Home page, has my basic info, mood calendar, and journal. Deployed on [Vercel's platform](https://vercel.com/).
+- [**Site**](https://dartegnian.com) - Home page, has my basic info, mood calendar, and journal. Deployed on [Vercel's platform](https://vercel.com/), built with Angular.
 - [**Blog**](https://blog.dartegnian.com) - A blog powered by [Ghost](https://ghost.org/) CMS. Deployed on my own Linux server.
 - [**Notes**](https://notes.dartegnian.com) - My [Trilium](https://github.com/zadam/trilium) instance. Deployed on my Linux server. [Read here](https://notes.dartegnian.com/share/about).
 - [**Portfolio**](https://portfolio.dartegnian.com) - My portfolio, built with Angular. Also deployed via Vercel.
