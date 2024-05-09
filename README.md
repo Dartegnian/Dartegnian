@@ -10,6 +10,7 @@ I have a domain hosted via Route 53, https://dartegnian.com, which includes a fe
 - [**Portfolio**](https://portfolio.dartegnian.com) - My portfolio, built with Angular. Also deployed via Vercel.
 - [**Projects**](https://projects.dartegnian.com) - Kanban board, powered by [Taiga](https://www.taiga.io/). Also deployed on my Linux server.
 - [**VPN**](https://wg.dartegnian.com) - A [dockerized WireGuard VPN instance](https://hub.docker.com/r/dartegnian/wg-easy-m3). On my Linux server.
+- [**Web Stories**](https://stories.dartegnian.com) - AMP Web Stories for showcasing photos and moments from my life. Built with Next.js, deployed on Vercel.
 
 I'm currently working on other projects and utilities that I can self-host, deploy, or service from my domain.
 
