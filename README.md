@@ -2,7 +2,7 @@
 
 Starting December 10, 2020, all commits are signed and can be verified with [my public key](public_key.asc?raw=true).
 
-I have a domain hosted via Route 53, https://dartegnian.com, which hosts a few websites:
+I have a domain hosted via Route 53 (Cloudflare for DNS), https://dartegnian.com, which hosts a few websites:
 
 | **Website**                                          | **Description**                                                                                                        | **Platform**                       |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------|
