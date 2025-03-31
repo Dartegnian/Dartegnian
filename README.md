@@ -2,7 +2,7 @@
 
 Starting December 10, 2020, all commits are signed and can be verified with [my public key](public_key.asc?raw=true).
 
-I have a domain hosted via Route 53 (Cloudflare for DNS), https://dartegnian.com, which hosts a few websites:
+I have a domain hosted via Route 53 (with Cloudflare for DNS), https://dartegnian.com, which hosts a few websites:
 
 | **Website**                                          | **Description**                                                                                                        | **Technology**                       | **Platform**                       |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|------------------------------------|
@@ -13,9 +13,4 @@ I have a domain hosted via Route 53 (Cloudflare for DNS), https://dartegnian.com
 | [**VPN**](https://wg.dartegnian.com) | A [dockerized WireGuard VPN instance](https://hub.docker.com/r/dartegnian/wg-easy-m3). | [wg-easy](https://github.com/wg-easy/wg-easy), Docker | My Linux server |
 | [**Web Stories**](https://stories.dartegnian.com) | [AMP Web Stories](https://amp.dev/about/stories) showcasing moments from my life. | Next.js | Vercel |
 
-I'm currently working on other projects and utilities that I can self-host, deploy, or service from my domain.
-
-<!--
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
--->
- 
+I'm currently developing Angular, React, and Next.js web apps and other projects/utilities that I can self-host, deploy, or service from my domain.
