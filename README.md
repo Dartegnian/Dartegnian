@@ -10,7 +10,7 @@ I have a domain hosted via Route 53 (with Cloudflare for DNS), https://dartegnia
 | [**Blog**](https://blog.dartegnian.com) | My blog, powered by [Ghost](https://ghost.org/) CMS. |[Casper-M3](https://github.com/Dartegnian/Casper-M3) (React) | My Linux server |
 | [**Notes**](https://notes.dartegnian.com) | A Trilium instance which has my notes. [Read here](https://notes.dartegnian.com/share/about).  | [Trilium](https://github.com/zadam/trilium) |  My Linux server |
 | [**Portfolio**](https://portfolio.dartegnian.com) | My [(open-source)](https://github.com/Dartegnian/portfolio) portfolio. | Angular | Vercel |
+| [**Stories**](https://stories.dartegnian.com) | [AMP Web Stories](https://amp.dev/about/stories) showcasing moments from my life. | Next.js | Vercel |
 | [**VPN**](https://wg.dartegnian.com) | A [dockerized WireGuard VPN instance](https://hub.docker.com/r/dartegnian/wg-easy-m3). | [wg-easy](https://github.com/wg-easy/wg-easy), Docker | My Linux server |
-| [**Web Stories**](https://stories.dartegnian.com) | [AMP Web Stories](https://amp.dev/about/stories) showcasing moments from my life. | Next.js | Vercel |
 
 I'm currently developing Angular, React, and Next.js web apps and other projects/utilities that I can self-host, deploy, or service from my domain.
